@@ -95,8 +95,3 @@ public void draw()
   //empty!
 }
 
-
-
-
-
-
